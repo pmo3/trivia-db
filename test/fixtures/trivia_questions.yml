@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+katy_perry_name:
+  category: "PopCulture"
+  question: "What is Katy Perrys first name?"
+  right_answer: "Katheryn"
+  wrong_one: "Katherine"
+  wrong_two: "Kate"
+  wrong_three: "Karen"
+
+two:
+  category: "PopCulture"
+  question: "Katy Perry began her music career in which genre?"
+  right_answer: "Gospel"
+  wrong_one: "Pop"
+  wrong_two: "Rock"
+  wrong_three: "Hip Hop"
+
+three:
+  category: "Sports"
+  question: "Stephen Curry plays for which team?"
+  right_answer: "Golden State Warriors"
+  wrong_one: "Boston Celtics"
+  wrong_two: "San Antonio Spurs"
+  wrong_three: "New York Knicks"
